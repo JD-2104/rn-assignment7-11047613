@@ -10,3 +10,6 @@ The Cart screen displays the products added to the cart. It consists of a header
 
 ## Product Detail Screen
 The Product screen displays detailed information about a product. It consists of a header, a product image, product details, and a footer. The product details include the product name, description, price, and materials used. Additionally, the screen displays care instructions, shipping information, and an estimated delivery date.
+
+<img width="1470" alt="Screenshot 2024-07-11 at 9 37 53 PM" src="https://github.com/user-attachments/assets/56029065-28a4-486f-9064-7a938df191da">
+<img width="1470" alt="Screenshot 2024-07-11 at 9 38 03 PM" src="https://github.com/user-attachments/assets/65a7afba-e1fa-40c6-a30f-9b66767ed2c9">
