@@ -19,9 +19,6 @@ The Product screen displays detailed information about a product. It consists of
 ![sc1](https://github.com/user-attachments/assets/03eadea3-a89a-4654-88c1-3d1d5ba37a35)
 
 
-![sc2](https://github.com/user-attachments/assets/a6b3110b-0664-4d0f-9bcd-35c93baa1623)
-
-
 ![sc3](https://github.com/user-attachments/assets/ba640ca4-de92-441e-9890-131a1d6e7c6a)
 
 
