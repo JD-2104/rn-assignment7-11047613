@@ -7,3 +7,6 @@ The Home screen displays a list of products fetched from a fake API. Each produc
 
 ## Cart Screen
 The Cart screen displays the products added to the cart. It consists of a header, a scrollable list of products, and a footer. Each product in the cart is rendered as a card with an image, title, description, and price.
+
+## Product Detail Screen
+The Product screen displays detailed information about a product. It consists of a header, a product image, product details, and a footer. The product details include the product name, description, price, and materials used. Additionally, the screen displays care instructions, shipping information, and an estimated delivery date.
